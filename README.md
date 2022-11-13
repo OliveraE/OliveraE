@@ -9,7 +9,7 @@
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) 
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
   ![database](https://img.shields.io/badge/-database-333333?style=flat&logo=database)
-- 💞️ I’m looking to collaborate on PROTECO
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliveraE&show_icons=true&theme=tokyonight)
